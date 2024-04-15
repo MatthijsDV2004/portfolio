@@ -17,4 +17,9 @@ a {
   margin-bottom: 20px; /* Adjust spacing as needed */
   text-align: center; /* Center the title */
   text-transform: uppercase; /* Convert text to uppercase */
+  cursor: pointer;
+    transition: transform 0.5s ease-in-out;
+}
+.rotated {
+  transform: rotate(360deg); /* Rotate element 360 degrees */
 }

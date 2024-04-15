@@ -29,20 +29,3 @@ body {
   color: #0077B5; /* LinkedIn color */
   font-size: 150px;
 }
-#about-me{
-  /* font-size: 30px; /* Adjust size as needed */
-  font-family: 'Montserrat', sans-serif;
-  color: #e00808; 
-  font-size: 50px;
-  text-align: left;
-  text-transform: uppercase; 
-  cursor: pointer;
-    transition: transform 0.5s ease-in-out; 
-  margin-top: 100vh;
-  padding-bottom: 100vh;
-  
-}
-#about-me p{
-  font-size: 20px; /* Adjust size as needed */
-  
-}

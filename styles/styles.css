@@ -1,3 +1,14 @@
+body {
+  background-color: #388E3C;
+  color: #FFFFFF; /* Text color for contrast */
+}
+
+/* Example of an accent color for links or buttons */
+a {
+  color: #8AB84B;
+}
+
+/* Example of a darker shade for borders or headings */
 h1 {
-    color: blue;
-  }
+  color: #5D7E35;
+}

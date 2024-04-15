@@ -4,9 +4,7 @@ body {
 }
 
 /* Example of an accent color for links or buttons */
-a {
-  color: #8AB84B;
-}
+
 
 /* Example of a darker shade for borders or headings */
 #title{
@@ -22,4 +20,12 @@ a {
 }
 .rotated {
   transform: rotate(360deg); /* Rotate element 360 degrees */
+}
+.fa-github {
+  color: #211F1F; /* GitHub color */
+  font-size: 150px;
+}
+.fa-linkedin{
+  color: #0077B5; /* LinkedIn color */
+  font-size: 150px;
 }

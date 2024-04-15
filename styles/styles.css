@@ -1,5 +1,5 @@
 body {
-  background-color: #388E3C;
+  background-color: #2b2623;
   color: #FFFFFF; /* Text color for contrast */
 }
 
@@ -9,6 +9,12 @@ a {
 }
 
 /* Example of a darker shade for borders or headings */
-h1 {
-  color: #5D7E35;
+#title{
+  font-size: 70px; /* Adjust size as needed */
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  color: #e00808; /* Choose your desired color */
+  margin-bottom: 20px; /* Adjust spacing as needed */
+  text-align: center; /* Center the title */
+  text-transform: uppercase; /* Convert text to uppercase */
 }

@@ -23,3 +23,10 @@ a {
 .rotated {
   transform: rotate(360deg); /* Rotate element 360 degrees */
 }
+#about-me {
+  display: none; /* Hide the about me section by default */
+}
+
+#about-me.visible {
+  display: block; /* Show the about me section when it has the 'visible' class */
+}
